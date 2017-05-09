@@ -42,7 +42,7 @@ Table of Contents
 
 #### Results:
 
-![image](https://github.com/CBB752Spring2017/final-project-4-2-team-4-2-1/blob/master/wt4bmb.png =250x250)
+![image](https://github.com/CBB752Spring2017/final-project-4-2-team-4-2-1/blob/master/wt4bmb.png {width=100px height=100px})
 ![image](https://github.com/CBB752Spring2017/final-project-4-2-team-4-2-1/blob/master/mut4bmb.png)
 ![alt text](https://github.com/CBB752Spring2017/final-project-4-2-team-4-2-1/blob/master/Displacement.png)
 
