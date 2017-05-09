@@ -45,7 +45,7 @@ $ax+b$
 
 ![image](https://github.com/CBB752Spring2017/final-project-4-2-team-4-2-1/blob/master/wt4bmb.png)
 ![image](https://github.com/CBB752Spring2017/final-project-4-2-team-4-2-1/blob/master/mut4bmb.png)
-![alt text](https://github.com/CBB752Spring2017/final-project-4-2-team-4-2-1/blob/master/Displacement.png)
+![alt text](https://github.com/CBB752Spring2017/final-project-4-2-team-4-2-1/blob/master/distance.png)
 
 ![alt text](https://github.com/CBB752Spring2017/final-project-4-2-team-4-2-1/blob/master/overlayWhole.png)
 ![alt text](https://github.com/CBB752Spring2017/final-project-4-2-team-4-2-1/blob/master/res35zoom.png)
