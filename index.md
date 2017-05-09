@@ -52,13 +52,30 @@ Table of Contents
 Multiple mutations at location 35 in chain A of protein 4BMB were evaluated using the Rosetta software package.
 
 #### Documentation:
-The structure 4BMB (Ruiz 2014) was acquired from the Protein Database. The Rosetta software package was used to create eleven mutations
-at location 35 in chain A. These mutations were I35A, I35D, I35E, I35F, I35G, I35L, I35M, I35P, I35R, I35V, and I35Y. The native protein
-and all mutations were optimized with Rosetta's Relax application (Nivón 2013) using the full atom and quick options. The energies of
-these relaxed structures were calculated with Rosetta's Score application (O'Meara 2015). Full results are listed in
-'4bmb_I35_mutation_scores.xlsx'.
+The protein structure 4BMB (Ruiz 2014) was acquired from the Protein Database. The Rosetta software package was used to create eleven
+mutations at location 35 in chain A. These mutations were I35A, I35D, I35E, I35F, I35G, I35L, I35M, I35P, I35R, I35V, and I35Y. The
+native protein and all mutations were optimized with Rosetta's Relax application (Nivón 2013) using the full atom and quick options. The
+energies of these relaxed structures were calculated with Rosetta's Score application (O'Meara 2015), also using the full atom option.
 
 #### Results:
+Results were somewhat surprising. While the most and least stable mutation (valine and arginine, respectively) were predicatable, there 
+were several unexpected results, such as the drastic energy differences between tyrosine and phenylalaline, the latter of which was very
+unstable compared to the fore). It is thought that a slight shift in a nearby residue caused by the additonal hydroxyl group on tyrosine
+was the cause for this disparity, although why this shift makes I35Y more stable than the native structure is unclear. The overlapping
+structures of I35F and I35Y can be seen in 'I35YF_overlay.png'. I35F carbons are colored yellow and I35Y are pink. There was no overall
+trend as to what made certain mutations more stable than others (e.g. size, hydrophobicity, charge), but some minor trends were present.
+For example, residues that have sidechains that are three carbon long (glutamate and leucine) are more stabilizing while residues that
+are shorter (alanine, aspartate, etc.) or longer (arginine and methionine) are less stable. The reason for this may be a pocket between 
+V48 and I146 that is stabilized by when it is filled (as with glutamate and leucine). However, a residue that is too long, like 
+arginine, clashes with the nearby residue F46.
+
+#### Files:
+Rosetta Score Output: score.sc
+Scores with Differences: 4bmb_I35_mutation_scores.xlsx
+Native Structure: 4bmb_0001.pdb
+Mutant Structures: 4bmb.A-I32X_0001.pdb ('X' is replaced with the mutant amino acid's 1-letter abbreviation)
+Images: I35X.png ('X' is replaced with the mutant amino acid's 1-letter abbreviation or omitted for native structure)
+Overlay of I35Y and I35F: I35YF_overlay.png
 
 
 #### References:
