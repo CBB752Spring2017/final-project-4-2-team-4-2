@@ -85,9 +85,11 @@ Overlay of I35Y and I35F: I35YF_overlay.png
 
 #### References:
 Nivón, L. G., Moretti, R., and Baker, D. (2013) A Pareto-Optimal Refinement Method for Protein Design Scaffolds. PLoS ONE 8.
+
 O’Meara, M. J., Leaver-Fay, A., Tyka, M. D., Stein, A., Houlihan, K., Dimaio, F., Bradley, P., Kortemme, T., Baker, D., Snoeyink, J.,
  and Kuhlman, B. (2015) Combined Covalent-Electrostatic Model of Hydrogen Bonding Improves Structure Prediction with Rosetta. Journal of
  Chemical Theory and Computation 11, 609–622.
+ 
 Ruiz, F. M., Scholz, B. A., Buzamet, E., Kopitz, J., André, S., Menéndez, M., Romero, A., Solís, D., and Gabius, H.-J. (2014) Natural 
  single amino acid polymorphism (F19Y) in human galectin-8: detection of structural alterations and increased growth-regulatory activity 
  on tumor cells. FEBS Journal 281, 1446–1464.
