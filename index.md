@@ -91,12 +91,13 @@ Results were somewhat surprising. While the most and least stable mutation (vali
 were several unexpected results, such as the drastic energy differences between tyrosine and phenylalaline, the latter of which was very
 unstable compared to the fore). It is thought that a slight shift in a nearby residue caused by the additonal hydroxyl group on tyrosine
 was the cause for this disparity, although why this shift makes I35Y more stable than the native structure is unclear. The overlapping
-structures of I35F and I35Y can be seen in 'I35YF_overlay.png'. I35F carbons are colored yellow and I35Y are pink. There was no overall
-trend as to what made certain mutations more stable than others (e.g. size, hydrophobicity, charge), but some minor trends were present.
-For example, residues that have sidechains that are three carbon long (glutamate and leucine) are more stabilizing while residues that
-are shorter (alanine, aspartate, etc.) or longer (arginine and methionine) are less stable. The reason for this may be a pocket between 
-V48 and I146 that is stabilized by when it is filled (as with glutamate and leucine). However, a residue that is too long, like 
-arginine, clashes with the nearby residue F46.
+structures of I35F and I35Y can be seen below. I35F carbons are colored yellow and I35Y are pink.
+![alt text](https://github.com/CBB752Spring2017/final-project-4-2-team-4-2-1/blob/master/I35YF_overlay.png)
+There was no overall trend as to what made certain mutations more stable than others (e.g. size, hydrophobicity, charge), but some minor
+trends were present. For example, residues that have sidechains that are three carbon long (glutamate and leucine) are more stabilizing
+while residues that are shorter (alanine, aspartate, etc.) or longer (arginine and methionine) are less stable. The reason for this may
+be a pocket between V48 and I146 that is stabilized by when it is filled (as with glutamate and leucine). However, a residue that is too
+long, like arginine, clashes with the nearby residue F46.
 
 #### Files:
 Rosetta Score Output: score.sc
