@@ -21,15 +21,13 @@ Table of Contents
 
 ### Introduction:
 
-### Writing:
-
-Background
-
 Galactin-8 is a type of human galactin; these proteins have a carbohydrate recognition domain (CRD) and have the ability to bind to β-galactose (Cummings and Liu, 2009). Galactin-8, as a tandem repeat galactin, has two CRDs linked together by a small peptide, with each CRD binding to a different polysaccharide. In the extracellular matrix, Galactin-8 can tightly bind integrins and a CD44 variant, and contributes to their role in signaling and interactions (Cummings and Liu, 2009). It has also been implicated with tumors, with roles in controlling endothelial cell migration and angiogenesis (Troncoso et al. 2014). 
 	
 The size and the polarity of amino acids are important in the overall structure of the protein, and amino acid mutations affecting these traits are likely to disrupt the structure and function. The core of the protein often contains hydrophobic and nonpolar residues, while the surface of the molecule is more likely to contain polar residues (Lins et al. 2003). This feature is critical to the overall fold of the protein, as the hydrophobic effect is important in the packing of the protein core. Therefore, mutations within the core that change the polarity of the amino acid are expected to be extremely deleterious, as they have the potential to disrupt this tight, hydrophobic packing. Any mutations that affect the shape of an amino acid within this hydrophobic core also has the potential to greatly disrupt the structure, as the interacting residues are forced to compensate for extra space that is required by a larger residue or for the space and interactions missing from a smaller residue. 
 	
 The software ROSETTA is a groundbreaking program that can be used in protein structure prediction, protein-protein or protein-ligand docking, conformational sampling, protein design, as well as protein energy simulations (Kaufmann et al. 2010). It can therefore be used to analyze potential mutations of a protein, as it determines the energy that a resultant mutant structure would have in comparison to the original protein. In performing the energy calculations, the program either considers the side chains to be centroids, in which solvation, electrostatics, and hydrogen bond information is included in the calculation, or considers the side chains to be super atoms, which incorporates the Lennard-Jones potential, solvent effects, electrostatic effects, and amino acid free energy into the calculation (Kaufmann et al. 2010). As both techniques include statistical and physical potentials, the resultant energies are in units of “ROSETTA energy units”, with lower energies corresponding to more benign and allowed mutations.
+
+### Writing:
 
 The I35F Mutation
 
@@ -51,7 +49,7 @@ The mutation I35Y changes both the size of the residue, as well as adding a pola
 
 Conclusion
 
-	A single amino acid change has the potential to greatly affect the protein through its interactions with surrounding residues. This is seen with the mutation I35F, as the larger size of the phenylalanine results in less side chain conformations and a higher energy potential than the wild type. Other mutations, such as I35E, I35V, and I35Y have the ability to fit within existing grooves or to move residues that would result in potential clashes, and as such these mutations can be considered benign. In addition to I35F, other mutations are also harmful, including I35R and I35D, as they disrupt the tight hydrophobic packing present in the core. Differences in energy between fairly similar mutations, such as D/E and F/Y, signify that it is important to consider the entire protein during deleteriousness predictions, and to not simply assume whether a mutation will be acceptable based only on its size and charge. The residues interacting with the mutation site have differing abilities to compensate for the change, and as such these interactions are important to consider and are critical to the classification of the mutation. 
+A single amino acid change has the potential to greatly affect the protein through its interactions with surrounding residues. This is seen with the mutation I35F, as the larger size of the phenylalanine results in less side chain conformations and a higher energy potential than the wild type. Other mutations, such as I35E, I35V, and I35Y have the ability to fit within existing grooves or to move residues that would result in potential clashes, and as such these mutations can be considered benign. In addition to I35F, other mutations are also harmful, including I35R and I35D, as they disrupt the tight hydrophobic packing present in the core. Differences in energy between fairly similar mutations, such as D/E and F/Y, signify that it is important to consider the entire protein during deleteriousness predictions, and to not simply assume whether a mutation will be acceptable based only on its size and charge. The residues interacting with the mutation site have differing abilities to compensate for the change, and as such these interactions are important to consider and are critical to the classification of the mutation. 
 
 
 
@@ -115,6 +113,13 @@ Overlay of I35Y and I35F: I35YF_overlay.png
 
 
 #### References:
+
+Cummings RD, Liu FT. Galectins. In: Varki A, Cummings RD, Esko JD, et al., editors. Essentials of Glycobiology. 2nd edition. Cold Spring Harbor (NY): Cold Spring Harbor Laboratory Press; 2009. Chapter 33.
+
+Kaufmann KW, Lemmon GH, DeLuca SL, Sheehan JH, Meiler J. Practically Useful: What the Rosetta Protein Modeling Suite Can Do for You. Biochemistry. 2010;49(14):2987-2998. 
+
+Lins L, Thomas A, Brasseur R. Analysis of accessible surface of residues in proteins. Protein Science : A Publication of the Protein Society. 2003;12(7):1406-1417.
+
 Nivón, L. G., Moretti, R., and Baker, D. (2013) A Pareto-Optimal Refinement Method for Protein Design Scaffolds. PLoS ONE 8.
 
 O’Meara, M. J., Leaver-Fay, A., Tyka, M. D., Stein, A., Houlihan, K., Dimaio, F., Bradley, P., Kortemme, T., Baker, D., Snoeyink, J.,
@@ -124,6 +129,8 @@ O’Meara, M. J., Leaver-Fay, A., Tyka, M. D., Stein, A., Houlihan, K., Dimaio, 
 Ruiz, F. M., Scholz, B. A., Buzamet, E., Kopitz, J., André, S., Menéndez, M., Romero, A., Solís, D., and Gabius, H.-J. (2014) Natural 
  single amino acid polymorphism (F19Y) in human galectin-8: detection of structural alterations and increased growth-regulatory activity 
  on tumor cells. FEBS Journal 281, 1446–1464.
+ 
+ Troncoso, M. F., Ferragut, F., Bacigalupo, M. L., Delgado, V. M. C., Nugnes, L. G., Gentilini, L., Laderach, D., Wolfenstein-Todel, C., Compagno, D., Rabinovich, G. A., Elola M. T.; Galectin-8: A matricellular lectin with key roles in angiogenesis. Glycobiology 2014; 24 (10): 907-914. 
 
 
 
