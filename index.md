@@ -38,7 +38,8 @@ Table of Contents
 
 
 #### Documentation:
-
+$ax+b$
+\\[display\\]
 
 #### Results:
 
