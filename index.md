@@ -71,10 +71,15 @@ arginine, clashes with the nearby residue F46.
 
 #### Files:
 Rosetta Score Output: score.sc
+
 Scores with Differences: 4bmb_I35_mutation_scores.xlsx
+
 Native Structure: 4bmb_0001.pdb
+
 Mutant Structures: 4bmb.A-I32X_0001.pdb ('X' is replaced with the mutant amino acid's 1-letter abbreviation)
+
 Images: I35X.png ('X' is replaced with the mutant amino acid's 1-letter abbreviation or omitted for native structure)
+
 Overlay of I35Y and I35F: I35YF_overlay.png
 
 
