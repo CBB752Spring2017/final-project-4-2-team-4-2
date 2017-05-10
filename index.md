@@ -4,19 +4,28 @@ title: CBB752 Spring 2017
 tagline: Final Project
 ---
 
-Project Title
+A Study of the Effects of Mutating A-I35 in Human Galectin-8 
 ------------------
 
 
 Table of Contents
+1. Introduction
+2. Writing
+..1. The I35F Mutation
+..2. Additional Mutations to I35
+3. Conclusion
+
+
 -----------------------
 
 
 
 
 **Contributors**
- -Writing:
+ -Writing: Megan Brady
+ 
  -Coding: Amber Jessop
+ 
  -Pipeline: Krystle Reiss
 
 ### Introduction:
