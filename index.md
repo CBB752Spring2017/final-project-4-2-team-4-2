@@ -1,19 +1,28 @@
 ---
 layout: page
 title: CBB752 Spring 2017
-tagline: Final Project
+tagline: Final Project 4.2
 ---
 
-A Study of the Effects of Mutating A-I35 in Human Galectin-8 
+A Study of the Effects of Mutations at A-I35 in Human Galectin-8 
+
 ------------------
 
 
 Table of Contents
 1. Introduction
 2. Writing
-..1. The I35F Mutation
-..2. Additional Mutations to I35
-3. Conclusion
+  1. The I35F Mutation
+  2. Additional Mutations to I35
+  3. Conclusion
+3. Coding
+  1. Documentation
+  2. Results
+4. Pipeline
+  1. Documentation
+  2. Results
+  3. Files
+5. References
 
 
 -----------------------
@@ -59,11 +68,6 @@ The mutation I35Y changes both the size of the residue, as well as adding a pola
 Conclusion
 
 A single amino acid change has the potential to greatly affect the protein through its interactions with surrounding residues. This is seen with the mutation I35F, as the larger size of the phenylalanine results in less side chain conformations and a higher energy potential than the wild type. Other mutations, such as I35E, I35V, and I35Y have the ability to fit within existing grooves or to move residues that would result in potential clashes, and as such these mutations can be considered benign. In addition to I35F, other mutations are also harmful, including I35R and I35D, as they disrupt the tight hydrophobic packing present in the core. Differences in energy between fairly similar mutations, such as D/E and F/Y, signify that it is important to consider the entire protein during deleteriousness predictions, and to not simply assume whether a mutation will be acceptable based only on its size and charge. The residues interacting with the mutation site have differing abilities to compensate for the change, and as such these interactions are important to consider and are critical to the classification of the mutation. 
-
-
-
-
-
 
 
 ### Coding:
@@ -149,24 +153,3 @@ Ruiz, F. M., Scholz, B. A., Buzamet, E., Kopitz, J., André, S., Menéndez, M., 
  
  Troncoso, M. F., Ferragut, F., Bacigalupo, M. L., Delgado, V. M. C., Nugnes, L. G., Gentilini, L., Laderach, D., Wolfenstein-Todel, C., Compagno, D., Rabinovich, G. A., Elola M. T.; Galectin-8: A matricellular lectin with key roles in angiogenesis. Glycobiology 2014; 24 (10): 907-914. 
 
-
-
-
-
-
-
-
-#### Conclusions:
-
-
-
-
-
-
-
-
-#### References:
-
- References can be included here or at the end of each relevant section.
- 
- 
