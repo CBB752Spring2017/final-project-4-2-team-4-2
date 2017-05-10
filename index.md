@@ -12,7 +12,7 @@ A Study of the Effects of Mutations at A-I35 in Human Galectin-8
 Table of Contents
 1. Introduction
 2. Writing
-  + The I35F Mutation
+   + The I35F Mutation
   2. Additional Mutations to I35
   3. Conclusion
 3. Coding
