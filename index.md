@@ -68,9 +68,11 @@ The second script, mut_rmsd.py takes in two aligned .pdb files (generated with R
 
 #### Results:
 For the wild type structure (see below), there are significantly more sterically allowed side chain dihedral angles. The mutant protein, with a phenylalanine residue that is significantly larger than the isoleucine, shows a very narrow range of allowed configurations. While the allowed angle distribution of I35F overlaps the allowed region for I35, the clashing energies for I35F is on the order of 100 times larger than the energies of I35, indicative of a relatively unstabilized structure.
+
 ![image](https://github.com/CBB752Spring2017/final-project-4-2-team-4-2-1/blob/master/wt4bmb.png)
 ![image](https://github.com/CBB752Spring2017/final-project-4-2-team-4-2-1/blob/master/mut4bmb.png)
 The RMSD for the I35 vs. I35F structures was found to be 0.591 angstrom, but a plot of the distances between corresponding heavy atoms reveals that there are some notable differences in atom position at a few different residues. In this analysis, atoms that are on the side chain of the mutation residue were excluded since there is not a direct correlation between them. How ever the atoms of the mutation site back bone are included. The figure below was generated with PyMol software (red is the mutant and blue is the wild type residue) for a visual on the difference between the two residues.
+
 ![alt text](https://github.com/CBB752Spring2017/final-project-4-2-team-4-2-1/blob/master/res35zoom.png)
 Included in these is, not surprisingly, residue 36. Others are residues 71 and 72, which are surface residues and point away from the core. 
 ![alt text](https://github.com/CBB752Spring2017/final-project-4-2-team-4-2-1/blob/master/distance.png)
