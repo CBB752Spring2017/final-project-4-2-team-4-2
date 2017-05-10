@@ -12,16 +12,16 @@ A Study of the Effects of Mutations at A-I35 in Human Galectin-8
 Table of Contents
 1. Introduction
 2. Writing
-   + The I35F Mutation
-  2. Additional Mutations to I35
-  3. Conclusion
+   1. The I35F Mutation
+   2. Additional Mutations to I35
+   3. Conclusion
 3. Coding
-  1. Documentation
-  2. Results
+   1. Documentation
+   2. Results
 4. Pipeline
-  1. Documentation
-  2. Results
-  3. Files
+   1. Documentation
+   2. Results
+   3. Files
 5. References
 
 
@@ -40,7 +40,7 @@ Table of Contents
 
 ### Introduction:
 
-Galactin-8 is a type of human galactin; these proteins have a carbohydrate recognition domain (CRD) and have the ability to bind to β-galactose (Cummings and Liu, 2009). Galactin-8, as a tandem repeat galactin, has two CRDs linked together by a small peptide, with each CRD binding to a different polysaccharide. In the extracellular matrix, Galactin-8 can tightly bind integrins and a CD44 variant, and contributes to their role in signaling and interactions (Cummings and Liu, 2009). It has also been implicated with tumors, with roles in controlling endothelial cell migration and angiogenesis (Troncoso et al. 2014). 
+Galectin-8 is a type of human galactin; these proteins have a carbohydrate recognition domain (CRD) and have the ability to bind to β-galactose (Cummings and Liu, 2009). Galectin-8, as a tandem repeat galactin, has two CRDs linked together by a small peptide, with each CRD binding to a different polysaccharide. In the extracellular matrix, Galectin-8 can tightly bind integrins and a CD44 variant, and contributes to their role in signaling and interactions (Cummings and Liu, 2009). It has also been implicated with tumors, with roles in controlling endothelial cell migration and angiogenesis (Troncoso et al. 2014). 
 	
 The size and the polarity of amino acids are important in the overall structure of the protein, and amino acid mutations affecting these traits are likely to disrupt the structure and function. The core of the protein often contains hydrophobic and nonpolar residues, while the surface of the molecule is more likely to contain polar residues (Lins et al. 2003). This feature is critical to the overall fold of the protein, as the hydrophobic effect is important in the packing of the protein core. Therefore, mutations within the core that change the polarity of the amino acid are expected to be extremely deleterious, as they have the potential to disrupt this tight, hydrophobic packing. Any mutations that affect the shape of an amino acid within this hydrophobic core also has the potential to greatly disrupt the structure, as the interacting residues are forced to compensate for extra space that is required by a larger residue or for the space and interactions missing from a smaller residue. 
 	
