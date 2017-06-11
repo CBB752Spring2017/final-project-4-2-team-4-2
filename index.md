@@ -28,16 +28,6 @@ Table of Contents
 -----------------------
 
 
-
-
-**Contributors**
-
- -Writing: Megan Brady
- 
- -Coding: Amber Jessop
- 
- -Pipeline: Krystle Reiss
-
 ### Introduction:
 
 Galectin-8 is a type of human galactin; these proteins have a carbohydrate recognition domain (CRD) and have the ability to bind to β-galactose (Cummings and Liu, 2009). Galectin-8, as a tandem repeat galactin, has two CRDs linked together by a small peptide, with each CRD binding to a different polysaccharide. In the extracellular matrix, Galectin-8 can tightly bind integrins and a CD44 variant, and contributes to their role in signaling and interactions (Cummings and Liu, 2009). It has also been implicated with tumors, with roles in controlling endothelial cell migration and angiogenesis (Troncoso et al. 2014). 
